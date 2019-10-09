@@ -7,5 +7,5 @@ A collection of online demos showing variously scenario for exporting dxDataGrid
 * [Simple dxDataGrid export scenario into .xlsx file](https://eugeniykiyashko.github.io/DevExtreme-ExportDataGrid-using-ExcelJS/demos/simple-export-datagrid/simpleExport.html)
 * [Modify Excel cell alignment](https://eugeniykiyashko.github.io/DevExtreme-ExportDataGrid-using-ExcelJS/demos/modify-alignment/index.html)
 * [Exporting datagrid cell with html tags into an excel cell with simultaneous use of several font styles("bold", "cursive", "underline") for cell text](https://eugeniykiyashko.github.io/DevExtreme-ExportDataGrid-using-ExcelJS/demos/html-tags-into-excel/index.html)
-
+* [Customizing totalFooter cells according to groupIndex of appropriate group](https://eugeniykiyashko.github.io/DevExtreme-ExportDataGrid-using-ExcelJS/demos/groupIndex-totalFoter-cells/index.html)
 
